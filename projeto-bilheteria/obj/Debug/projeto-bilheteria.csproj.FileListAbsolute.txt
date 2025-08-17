@@ -1,0 +1,9 @@
+C:\IFSP\2025\ESD-2\projeto-bilheteria\projeto-bilheteria\obj\Debug\projeto-bilheteria.csproj.AssemblyReference.cache
+C:\IFSP\2025\ESD-2\projeto-bilheteria\projeto-bilheteria\obj\Debug\projeto_bilheteria.Properties.Resources.resources
+C:\IFSP\2025\ESD-2\projeto-bilheteria\projeto-bilheteria\obj\Debug\projeto-bilheteria.csproj.GenerateResource.cache
+C:\IFSP\2025\ESD-2\projeto-bilheteria\projeto-bilheteria\obj\Debug\projeto-bilheteria.csproj.CoreCompileInputs.cache
+C:\IFSP\2025\ESD-2\projeto-bilheteria\projeto-bilheteria\bin\Debug\projeto-bilheteria.exe.config
+C:\IFSP\2025\ESD-2\projeto-bilheteria\projeto-bilheteria\bin\Debug\projeto-bilheteria.exe
+C:\IFSP\2025\ESD-2\projeto-bilheteria\projeto-bilheteria\bin\Debug\projeto-bilheteria.pdb
+C:\IFSP\2025\ESD-2\projeto-bilheteria\projeto-bilheteria\obj\Debug\projeto-bilheteria.exe
+C:\IFSP\2025\ESD-2\projeto-bilheteria\projeto-bilheteria\obj\Debug\projeto-bilheteria.pdb
